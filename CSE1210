@@ -19,6 +19,12 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
  <h4>componets of how the internet works.</h4>
 
 <table>
+  <tr>
+   <th>componets</th>
     <th>servers</th>
-    
+    <th>routers</th>
+    <th>switches</th>
+    <th>work stations</th>
+    <th>clients</th>
+</tr>
 </table>
