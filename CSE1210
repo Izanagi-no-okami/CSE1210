@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color: rgb(0, 0, 0);" style="text-emphasis-color: white;">
+<body style="background-color: rgb(0, 0, 0);">
 
-<h1>things about the internet?</h1>
+<h1 style="color:rgb(255, 255, 255);"></h1style>things about the internet?</h1>
 
-<h2>internet backbone.</h2>
+<h2 style="color:rgb(255, 255, 255);">internet backbone.</h2>
 
-<p> <a href="https://en.wikipedia.org/wiki/Internet_backbone"> <b>internet backbone</b></a> is essentailly the core of the internet, large interconnected computer routes that are hosted by high-capacity network centres. 
+<p style="color:rgb(255, 255, 255);"> <a href="https://en.wikipedia.org/wiki/Internet_backbone"> <b>internet backbone</b></a> is essentailly the core of the internet, large interconnected computer routes that are hosted by high-capacity network centres. 
 many of these networks are held up by fiber-optic cables allowing for fast data speeds, large bandwidth and are unaffected by electromagnetic interference.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Submarine_cable_map_umap.png" alt="fiber-optic cable routes">
 
-<h3>The difference between clients and servers.</h3>
+<h3 style="color:rgb(255, 255, 255);">The difference between clients and servers.</h3>
 
-<p> <a href="https://en.wikipedia.org/wiki/Server_(computing)"> <em>servers</em></a> are devices that provide information to another which are called <a href="https://en.wikipedia.org/wiki/Client_(computing)"> <i>Clients</i></a>. a client can be part of the server devicce but it is unlikely. </p>
+<p style="color:rgb(255, 255, 255);"> <a href="https://en.wikipedia.org/wiki/Server_(computing)"> <em>servers</em></a> are devices that provide information to another which are called <a href="https://en.wikipedia.org/wiki/Client_(computing)"> <i>Clients</i></a>. a client can be part of the server devicce but it is unlikely. </p>
 <iframe width="1280" height="720" 
  src="https://www.youtube.com/watch?v=xah8viUhW9Y" alt="video about what clients and servers are"> </iframe>
 
- <h4>componets of how the internet works.</h4>
+ <h4 style="color:rgb(255, 255, 255);">componets of how the internet works.</h4>
  
  <style>
     table, th, td {
       border:1px solid rgb(255, 255, 255);
     }
     </style>
-    <body>
+    
+    </body>
     
 
- <table>
+ <table style="color:aquamarine;">
   <tr>
    <th>componets:</th>
     <th>servers</th>
@@ -38,5 +39,19 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
 
 <tr>
     <th>what they are.</th>
-    
+    <th>a device that provides information to clients</th>
+    <th>a guide for data packets</th>
+    <th>a device that connects devices on s computer netweork</th>
+    <th>special designed computers for tech or scientific purposes</th>
+    <th>a device that receives information from a server</th>
+</tr>
+
+<tr>
+    <th>what purpose they serve</th>
+    <th>to provide service/information to clients</th>
+    <th>to manage traffic between networks by guiding data pakects to the correct address</th>
+    <th>allows mutiple devices to communicate with another</th>
+    <th></th>
+
+</tr>
 </table>
