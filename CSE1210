@@ -10,13 +10,13 @@
 many of these networks are held up by fiber-optic cables allowing for fast data speeds, large bandwidth and are unaffected by electromagnetic interference.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Submarine_cable_map_umap.png" alt="fiber-optic cable routes">
 
-<h3 style="color:rgb(255, 255, 255);">The difference between clients and servers.</h3>
+<h2 style="color:rgb(255, 255, 255);">The difference between clients and servers.</h2>
 
 <p style="color:rgb(255, 255, 255);"> <a href="https://en.wikipedia.org/wiki/Server_(computing)"> <em>servers</em></a> are devices that provide information to another which are called <a href="https://en.wikipedia.org/wiki/Client_(computing)"> <i>Clients</i></a>. a client can be part of the server devicce but it is unlikely. </p>
 <iframe width="1280" height="720" 
  src="https://www.youtube.com/watch?v=xah8viUhW9Y" alt="video about what clients and servers are"> </iframe>
 
- <h4 style="color:rgb(255, 255, 255);">componets of how the internet works.</h4>
+ <h2 style="color:rgb(255, 255, 255);">componets of how the internet works.</h2>
  
  <style>
     table, th, td {
@@ -58,3 +58,8 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
 </tr>
 </table>
 
+<!DOCTYPE html>
+<html>
+<body style="background-color: rgb(0, 0, 0);">
+
+<h2 style="color:aliceblue"></h2>
