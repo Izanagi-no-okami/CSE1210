@@ -63,9 +63,9 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
 <body style="background-color: rgb(0, 0, 0);">
 
 <h2 style="color:aliceblue">what is TCP/IP?</h2>
-<p style="color:azure"> </p>
+<p style="color:azure">A framework used to organize communication protocols for the internet and similiar networks.</p>
 
-<h2 style="color:aliceblue">internet servers that rely on client/server relationships.</h2>
+<h2 style="color:aliceblue">internet servers that rely on client/server relationships. It uses the end-to-end principle to transfer data between servers faster and more reliably. </h2>
 <h3 style="color:whitesmoke">
     <ul>
     <li>mail servers</li>
@@ -74,5 +74,12 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
 </ul></h3>
 
 <h2>what is hypertext?</h2>
+    <p>hypertext are text display that have refrences (links) allowing someone to click on them and be transfered to another site/ area in the site. </p>
+
+<h2>how is the web connected to the internet</h2>
+
+
+
+
 
 </body>
