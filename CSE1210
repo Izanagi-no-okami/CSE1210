@@ -73,14 +73,16 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
     <li>file servers</li>
 </ul></h3>
 
-<h2>what is hypertext?</h2>
-    <p>hypertext are text display that have refrences (links) allowing someone to click on them and be transfered to another site/ area in the site. </p>
+<h2 style="color:aliceblue">what is hypertext?</h2>
+    <p style="color:aliceblue">hypertext are text display that have refrences (links) allowing someone to click on them and be transfered to another site/ area in the site. </p>
 
-<h2>how is the web related to the internet</h2>
-<p>computers link each other to others all around the world a for content, the difference is that the internet transport it and the web uses the content.</p>
+<h2 style=" color:azure">how is the web related to the internet</h2>
+<p style=" color:aliceblue">computers link each other to others all around the world a for content, the difference is that the internet transport it and the web uses the content.</p>
 
-<h2>how the HTTP is used to facilitate client/server interaction</h2>
+<h2 style="color:aliceblue">how the HTTP is used to facilitate client/server interaction</h2>
+<p style="color:azure">HTTP follows a request response model which makes the clients create a request anf the server gives a response of what was requested and relevent status information.</p>
 
+<h2 style="color:azure"></h2>
 
 
 </body>
