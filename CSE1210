@@ -14,7 +14,7 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
 
 <p style="color:rgb(255, 255, 255);"> <a href="https://en.wikipedia.org/wiki/Server_(computing)"> <em>servers</em></a> are devices that provide information to another which are called <a href="https://en.wikipedia.org/wiki/Client_(computing)"> <i>Clients</i></a>. a client can be part of the server devicce but it is unlikely. </p>
 <video width="1280" height="720" controls="controls">
- <source src="https://www.youtube.com/watch?v=xah8viUhW9Y" type="video/mp4"/>  </video>
+ <source src="https://www.youtube.com/watch?v=xah8viUhW9Y"/>  </video>
 
  <h2 style="color:rgb(255, 255, 255);">componets of how the internet works.</h2>
  
@@ -86,6 +86,12 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
 <p style="color:azure"> HTTP stands for hyper text transfer protocol which means that clients send requests through HTTP and than a server responds through HTTP. the difference bettwen HTTP and HTTPS is that HTTPS sends its data in a encrypted form allowing for people to be confidant that no third parties see the data.</p>
 
 <h2 style="color:aliceblue">How the web has developed.</h2>
-<p style="color:azure"></p>
+<p style="color:azure">in the beggining the web was only used to find information and had some gifs and graphics. called web 1.0 it was created for a reading mostly and was unable to make direct contact with otheres it was also known as the read-only web. the newer version web 2.0 was focused on participating and contributing allowing for many others to create content and introduced things like social media. web 2.0 is still used today and the next step web 3.0 is still in it's alpha known as the "read,write and exucute web" allowing people to move away from large platforms to anonymous sites. TIm berners-lee envisions a autonomous open internet that uses ai and machine learning as a brain allowing for more complex things like 3-d graphics.</p>
+
+<h3 style="color:azure">venn of web.</h3>
+<p style="color:aliceblue">web 1.0 was very bare bones internet with only allowing you to read but you have wiil beable to read webpages until the internet collapses. web 2.0 allowed input from people causing a boom in the internet and made web 1.0 look boring which it was. web 2.0 still had the bones from web 1.0 though like gifs and many static html pages to browse but now created by random people. web 3.0 is like the prior versions with being able to have user input and getting to read and browse information but will be way more automayed and way more visually appealing.</p>
+
+<h2 style="color:aliceblue"> markup languages role in the web.</h2>
+<p style="color:aliceblue"></p>
 
 </body>
