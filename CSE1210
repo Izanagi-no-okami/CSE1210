@@ -92,6 +92,12 @@ many of these networks are held up by fiber-optic cables allowing for fast data 
 <p style="color:aliceblue">web 1.0 was very bare bones internet with only allowing you to read but you have wiil beable to read webpages until the internet collapses. web 2.0 allowed input from people causing a boom in the internet and made web 1.0 look boring which it was. web 2.0 still had the bones from web 1.0 though like gifs and many static html pages to browse but now created by random people. web 3.0 is like the prior versions with being able to have user input and getting to read and browse information but will be way more automayed and way more visually appealing.</p>
 
 <h2 style="color:aliceblue"> markup languages role in the web.</h2>
+<p style="color:aliceblue">they allow for structure and they format content. they provide standardized ways to define elemints making it easier for apllications to interpret and display the code correctly.</p>
+
+<h2 style="color: azure">venn of markup and scripting languages.</h2>
+<p style="color:aliceblue">markup languages are used to structure data and don't actually perform the task while scripting languages perform the task and are not compiled but interpreted. they both are used to code though one just actually exucutes the code.</p>
+
+<h2 style="color:aliceblue">the relationship between SGML, XML, HTML, XHTML, DHTML, MD</h2>
 <p style="color:aliceblue"></p>
 
 </body>
